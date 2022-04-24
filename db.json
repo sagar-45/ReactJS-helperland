@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "Firstname": "s1",
+      "Lastname": "s2",
+      "Email": "s1@gmail.com",
+      "M_no": "1234567890",
+      "Password": "123",
+      "C_password": "13",
+      "UserTypeId": "2",
+      "id": 1
+    },
+    {
+      "Firstname": "s1",
+      "Lastname": "s2",
+      "Email": "s12@gmail.com",
+      "M_no": "1234567890",
+      "Password": "123",
+      "C_password": "123",
+      "UserTypeId": "1",
+      "id": 2
+    }
+  ]
+}
